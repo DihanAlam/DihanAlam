@@ -1,3 +1,3 @@
 ## Hi there 👋
-This is my first githubRepository.
+This is my first Git Repository.
 Author - Saidul Islam Saif
